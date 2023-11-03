@@ -2,6 +2,8 @@
 
 A barcode-based tracking system for the processing of biospecimen from multiple centers
 
+https://www.quartz.bio/ looks like a commercial company that offers such a service.
+
 ## Design goals (features on top of existing barcode system)
 
 ### Data structure
